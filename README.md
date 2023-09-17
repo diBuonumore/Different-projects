@@ -5,7 +5,7 @@ Here I will upload projects from different subjects & categories (rather associa
 
 Why did I create it? I was looking for a planner as a gift to my friend but I could not find the one which will meet my requirements. I want it to be something special, ideal. One day I thought: Why not to make a planner on my own? And here it is. 
 
-Tool: Canva (basic)
+Tool: Canva (basic), Autocad (Plutchik's Wheel of Emotions)
 
 Realization: 2 months 
 
