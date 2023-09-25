@@ -5,7 +5,7 @@ Here I will upload projects from different subjects & categories (rather associa
 
 Why did I create it? I was looking for a planner as a gift to my boyfriend but I could not find the one which will meet my requirements. I want it to be something special, ideal. One day I thought: Why not to make a planner on my own? And here it is. 
 
-Tool: Canva (basic), Autocad (Plutchik's Wheel of Emotions)
+Tools: Canva (basic), Autocad (Plutchik's Wheel of Emotions)
 
 Realization: 2 months 
 
@@ -21,3 +21,11 @@ What can you find inside?
 4) Weekly planner - monthly reflections, Eisenhower Matrix, calendar
 
 Open the PDF and see the complete version. 
+
+#Project 2 - logo
+
+My friend asked me if I could make a logo for his dad's photo booth. He wanted two versions (only outlines and filled with colour). The text should be: "Magiczne chwile" (Magical moments). 
+
+Tools: Autocad
+
+Realization: 2 nights
