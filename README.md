@@ -24,7 +24,7 @@ Open the PDF and see the complete version.
 
 #Project 2 - logo
 
-My friend asked me if I could make a logo for his dad's photo booth. He wanted two versions (only outlines and filled with colour). The text should be: "Magiczne chwile" (Magical moments). 
+My friend asked me if I could make a logo for his dad's photo booth. He wanted two versions (only outlines and filled with colour). The text had to be: "Magiczne chwile" (Magical moments). 
 
 Tools: Autocad
 
